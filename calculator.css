@@ -1,0 +1,55 @@
+#answer{
+    width: 300px;
+    background: #1b1c1f;
+    height: 80px;
+    color: rgb(250, 238, 238);
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-bottom: 18px;
+    text-align: right;
+    letter-spacing: 1px;
+ }
+ 
+ .container{
+    margin: auto;
+ }
+ 
+ h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .cal{
+    height: 420px;
+    background: #d7a446;
+    padding: 10px;
+    border-radius: 20px;
+    display: inline-block;
+ 
+ }
+ 
+ input{
+    font-size: 18px;
+    width: 60px;
+    height: 50px;
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+    background: rgb(189, 223, 166);
+    margin: 0.7px;
+    outline: 0.5px solid rgb(175, 123, 159);
+    border: 0px solid;
+ }
+
+ input[type ="button"]:hover{
+   cursor: pointer;
+   background: rgb(50, 50, 53);
+   color: white;
+ }
+
+ .btn-red{
+   background-color: rgb(129, 188, 123);
+ }
+ 
+
+ 
